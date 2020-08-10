@@ -1,3 +1,6 @@
 [submodule "02---Module-III---Git-Basic-Workflow"]
 	path = 02---Module-III---Git-Basic-Workflow
 	url = git@github.com:MarquezLuis96/02---Module-III---Git-Basic-Workflow.git
+[submodule "03---Module-VI---Multiple-Work-Environments-in-Git"]
+	path = 03---Module-VI---Multiple-Work-Environments-in-Git
+	url = git@github.com:MarquezLuis96/03---Module-VI---Multiple-Work-Environments-in-Git.git
